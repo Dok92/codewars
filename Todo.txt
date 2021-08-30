@@ -1,0 +1,6 @@
+Code Katas #2 34:30 - Fat fingers (6kyu)
+Code Katas #3 27:40 - Take a ten minute walk (6kyu)
+Code Katas #4 12:00 - 6kyu
+Code Katas #23  !solved, try again: removeTheMinimum
+Code Katas #26  two fighters one winer -> classes, prototype...
+Code Katas #31  5kyu
