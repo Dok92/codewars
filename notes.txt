@@ -1,3 +1,4 @@
+Go for clever solutions
 There is always a simpler solution
 Spread operator
 Dont stick to one idea. Think in parts what you have to do, not with which tool
