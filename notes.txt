@@ -3,14 +3,5 @@ There is always a simpler solution
 Spread operator
 Dont stick to one idea. Think in parts what you have to do, not with which tool
 If one solution is taking to long, or you get stuck, rethink, start a diferent aproach
-Code Katas #2 34:30 - Fat fingers (6kyu)
-Code Katas #3 27:40 - Take a ten minute walk (6kyu)
-Code Katas #4 12:00 - 6kyu
-Code Katas #28 solve 7kyu -> maybe harder than 7 -> left for later
-Code Katas #30 solve 7kyu 
-
-go over playingWithSets solutions
-
-bitwise operators? >>>
 
 
