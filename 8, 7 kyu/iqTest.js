@@ -2,27 +2,27 @@
 
 const { count } = require("console");
 
-// function iqTest(str) {
-//   let numArr = [];
-//   let numbers = str.split(" ");
-//   for (let i = 0; i < numbers.length; i++) {
-//     let num = Number(numbers[i]);
-//     numArr.push(num);
-//   }
-//   if ((numArr[0] + numArr[1]) % 2 == 0) {
-//     if (numArr[0] % 2 == 0) {
-//       return numArr.findIndex((x) => x % 2 !== 0) + 1;
-//     } else {
-//       return numArr.findIndex((x) => x % 2 == 0) + 1;
-//     }
-//   } else {
-//     if (numArr[3] % 2 == 0) {
-//       return numArr.findIndex((x) => x % 2 !== 0) + 1;
-//     } else {
-//       return numArr.findIndex((x) => x % 2 == 0) + 1;
-//     }
-//   }
-// }
+function iqTest(str) {
+  let numArr = [];
+  let numbers = str.split(" ");
+  for (let i = 0; i < numbers.length; i++) {
+    let num = Number(numbers[i]);
+    numArr.push(num);
+  }
+  if ((numArr[0] + numArr[1]) % 2 == 0) {
+    if (numArr[0] % 2 == 0) {
+      return numArr.findIndex((x) => x % 2 !== 0) + 1;
+    } else {
+      return numArr.findIndex((x) => x % 2 == 0) + 1;
+    }
+  } else {
+    if (numArr[3] % 2 == 0) {
+      return numArr.findIndex((x) => x % 2 !== 0) + 1;
+    } else {
+      return numArr.findIndex((x) => x % 2 == 0) + 1;
+    }
+  }
+}
 
 function iqTest(str) {
     let odd = {

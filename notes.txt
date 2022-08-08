@@ -3,5 +3,6 @@ There is always a simpler solution
 Spread operator
 Dont stick to one idea. Think in parts what you have to do, not with which tool
 If one solution is taking to long, or you get stuck, rethink, start a diferent aproach
-
+HOW TO FIND SOLUTION AND DO KATA FAST
+go over playingWithSets solutions
 
